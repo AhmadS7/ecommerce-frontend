@@ -1,0 +1,29 @@
+.title {
+  text-align: center;
+  line-height: 30px;
+  padding: 20px;
+}
+
+.nav {
+  position: relative;
+}
+
+.back {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+  cursor: pointer;
+}
+
+.auth {
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding-bottom: 60px;
+  padding: 60px;
+}
+
+.auth img {
+  max-width: 25px;
+}
